@@ -1,0 +1,3 @@
+可以把图片转换成英文字母表示
+
+放入的图片名要是original.jpg,图片放入resources中
